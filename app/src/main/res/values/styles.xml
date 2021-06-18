@@ -8,4 +8,10 @@
         <item name="android:background">@color/black_overlay</item>
         <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
     </style>
+
+    <style name="AccentButton" parent="ThemeOverlay.AppCompat.Dark">
+        <!-- customize colorButtonNormal for the disable color -->
+        <!-- customize colorAccent for the enabled color -->
+        <item name="android:buttonStyle">@style/Widget.AppCompat.Button.Colored</item>
+    </style>
 </resources>

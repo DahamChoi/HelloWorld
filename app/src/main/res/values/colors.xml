@@ -17,4 +17,8 @@
     <color name="blue_396afc">#396afc</color>
     <color name="blue_6379ff">#6379ff</color>
     <color name="white_ffffff">#FFFFFF</color>
+    <color name="gray_ebebeb">#00EBEBEB</color>
+    <color name="gray_cecece">#67CECECE</color>
+    <color name="white_98ffffff">#98FFFFFF</color>
+    <color name="black_171515">#171515</color>
 </resources>
